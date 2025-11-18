@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-10-08",
+  "main": "src/index.ts",
+  "name": "d1-template",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "a3c7c375-dd0b-42eb-a6bc-87d1c621bf40",
+      "database_name": "tai3009"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
